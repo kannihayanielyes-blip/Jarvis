@@ -1,0 +1,7 @@
+anthropic
+python-dotenv
+sounddevice
+numpy
+SpeechRecognition
+pyttsx3
+pyaudio
